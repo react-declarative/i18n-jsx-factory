@@ -40,7 +40,7 @@ module.exports = {
 
 ```
 
-The interceptior replaces `React.createElement` with `Translate.createElement` which provides localization
+The interceptor replaces `React.createElement` with `Translate.createElement` which provides localization
 
 ```js
 const React = require('react');
