@@ -1,4 +1,4 @@
-# i18n-jsx-factory
+# react-i18n-jsx-factory
 
 > The easiest way to setup i18n without changing any existing code. By using JSX runtime this tool will localize third party libraries too
 
